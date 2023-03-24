@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgilityGISSurvey.Domain", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgilityGISSurvey.Dtos", "AgilityGISSurvey.Dtos\AgilityGISSurvey.Dtos.csproj", "{ADD3C4E0-9B4A-46EF-9A8A-4C4093CC0798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgilityGISSurvey.Business", "AgilityGISSurvey.Business\AgilityGISSurvey.Business.csproj", "{63288DF4-221E-4405-A7CE-B2C40B13BBA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgilityGISSurvey.Business", "AgilityGISSurvey.Business\AgilityGISSurvey.Business.csproj", "{63288DF4-221E-4405-A7CE-B2C40B13BBA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgilityGISSurvey.UnitTests", "AgilityGISSurvey.UnitTests\AgilityGISSurvey.UnitTests.csproj", "{1B748896-1D12-4D38-963E-1A846093835F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgilityGISSurvey.UnitTests", "AgilityGISSurvey.UnitTests\AgilityGISSurvey.UnitTests.csproj", "{1B748896-1D12-4D38-963E-1A846093835F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
