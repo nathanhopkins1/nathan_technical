@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33326.253
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgilityGISSurvey.API", "AgilityGISSurvey.API\AgilityGISSurvey.API.csproj", "{F3CC1B70-D013-4A02-887A-12AAF7D0F8A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgilityGISSurvey.Domain", "AgilityGISSurvey.Domain\AgilityGISSurvey.Domain.csproj", "{0356978F-EA01-4380-A6DA-205CE2A78EA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgilityGISSurvey.Dtos", "AgilityGISSurvey.Dtos\AgilityGISSurvey.Dtos.csproj", "{ADD3C4E0-9B4A-46EF-9A8A-4C4093CC0798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgilityGISSurvey.Business", "AgilityGISSurvey.Business\AgilityGISSurvey.Business.csproj", "{63288DF4-221E-4405-A7CE-B2C40B13BBA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgilityGISSurvey.UnitTests", "AgilityGISSurvey.UnitTests\AgilityGISSurvey.UnitTests.csproj", "{1B748896-1D12-4D38-963E-1A846093835F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CC1B70-D013-4A02-887A-12AAF7D0F8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CC1B70-D013-4A02-887A-12AAF7D0F8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CC1B70-D013-4A02-887A-12AAF7D0F8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CC1B70-D013-4A02-887A-12AAF7D0F8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0356978F-EA01-4380-A6DA-205CE2A78EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0356978F-EA01-4380-A6DA-205CE2A78EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0356978F-EA01-4380-A6DA-205CE2A78EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0356978F-EA01-4380-A6DA-205CE2A78EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD3C4E0-9B4A-46EF-9A8A-4C4093CC0798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD3C4E0-9B4A-46EF-9A8A-4C4093CC0798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD3C4E0-9B4A-46EF-9A8A-4C4093CC0798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD3C4E0-9B4A-46EF-9A8A-4C4093CC0798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63288DF4-221E-4405-A7CE-B2C40B13BBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63288DF4-221E-4405-A7CE-B2C40B13BBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63288DF4-221E-4405-A7CE-B2C40B13BBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63288DF4-221E-4405-A7CE-B2C40B13BBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B748896-1D12-4D38-963E-1A846093835F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B748896-1D12-4D38-963E-1A846093835F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B748896-1D12-4D38-963E-1A846093835F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B748896-1D12-4D38-963E-1A846093835F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23A2B98A-BD5D-41D1-861E-933355B80214}
+	EndGlobalSection
+EndGlobal
